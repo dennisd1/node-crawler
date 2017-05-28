@@ -2,7 +2,7 @@
   "name": "crawler",
   "version": "1.0.5",
   "description": "Crawler is a web spider written with Nodejs. It gives you the full power of jQuery on the server to parse a big number of pages as they are downloaded, asynchronously",
-  "main": "./lib/crawler.js",
+  "main": "server.js",
   "directories": {
     "test": "tests"
   },
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bda-research/node-crawler.git"
+    "url": "https://github.com/dennisd1/node-crawler.git"
   },
   "engine-strict": {
     "node": ">=4.0.0"
